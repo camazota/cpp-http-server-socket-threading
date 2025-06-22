@@ -37,7 +37,7 @@ This project is a simple HTTP server written using `Winsock2` and multithreading
 
 ## Kurulum ve Derleme / Setup and Compilation
 
-<pre><code>```bash clang++ server.cpp threadpool.cpp -o server.exe -std=c++23 -O3 ``` </code></pre>
+<pre><code>clang++ server.cpp threadpool.cpp -o server.exe -std=c++23 -O3</code></pre>
 
 
 ## Kullanım / Usage
